@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  csc-ui-chart:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-02-28T09:24:25.335987653Z"
+    description: A Helm chart for Kubernetes
+    digest: 5164802c74721391c2c3636c3b58a4575c62b9bb7b13a57c20d6e73b770a68eb
+    name: csc-ui-chart
+    type: application
+    urls:
+    - assets/csc-ui-chart-2024.02.00-0002-ALPHA.tgz
+    version: 2024.02.00-0002-ALPHA
+generated: "2024-02-28T09:24:25.335620297Z"
